@@ -3,7 +3,7 @@ Building AI course project
 
 Final project for the Building AI course
 
-### **Summary**
+## **Summary**
 
 Chico Swap is an assistant that learns a user’s preferences and habits to make everyday life smoother. It acts as an intelligent bridge by swapping anonymized user data with local service providers to create real-time, personalized offers.
 
