@@ -1,5 +1,5 @@
 
-# Project Title
+# Chico AI - assistant
 
 Final project for the Building AI course project
 
